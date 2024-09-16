@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+.cont{
+width: 100%;
+height: 645px;
+background-color: greenyellow;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.div1{
+border: 2px solid;
+width: 1000px;
+height: 500px;
+background-color: white;
+justify-content: space-around;
+display: flex;
+flex-direction: column;
+}
+
+.div2{
+width: 100%;
+height: 150px;
+border: 2px solid;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.div3{
+width: 100%;
+height: 150px;
+border: 2px solid;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.div4{
+width: 100%;
+height: 150px;
+border: 2px solid;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.homiakChek1{
+width: 150px;
+height: 100px;
+}
+
+.homiakChek2{
+width: 150px;
+height: 100px;
+}
+
+.homiakChek3{
+width: 150px;
+height: 100px;
+}
+
+.plus1{
+width: 30px;
+height: 20px;
+background-color: rgb(228, 86, 110);
+}
+
+.minus1{
+width: 30px;
+height: 20px;
+background-color: rgb(228, 86, 110);
+}
+
+.plus2{
+  width: 30px;
+  height: 20px;
+  background-color: rgb(228, 86, 110);
+}
+
+.minus2{
+  width: 30px;
+  height: 20px;
+  background-color: rgb(228, 86, 110);
+}
+
+.plus3{
+  width: 30px;
+  height: 20px;
+  background-color: rgb(228, 86, 110);
+}
+
+.minus3{
+  width: 30px;
+  height: 20px;
+  background-color: rgb(228, 86, 110);
+}
